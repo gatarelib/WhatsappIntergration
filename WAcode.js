@@ -1,7 +1,7 @@
 <script type = "text / javascript">
  (function () {
  var options = {
- whatsapp: " +254776994038 ", // WhatsApp Number
+ whatsapp: " +254xxxxxxxxx ", // WhatsApp Number
  company_logo_url: <a href="https://icons8.com">Icon pack by Icons8</a>, // URL with company logo
  greeting_message: " Hello, the first message to be displayed, type here. ", // Main text
  call_to_action: " A message inviting you to send a whatsapp. ", // Call for action
